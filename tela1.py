@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import *
-
+"""
+Adicionando um comentário!
+"""
 class Tela:
     def __init__(self, janela):
         self.janela = janela
