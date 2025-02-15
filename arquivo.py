@@ -1,3 +1,4 @@
-def funcao(){
+def funcao():
   print("Segunda modificação")
-}
+
+
